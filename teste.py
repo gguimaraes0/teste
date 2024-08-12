@@ -2,10 +2,10 @@ nome = 'stasi'  # string
 
 idade = 14  # inteiro(int)
 
-altura = 1.75
+altura = 1.75 # double 
 
-lista_compras = ["presunto", "pao", "mortadela"]
-lista_numeros = [8, 4, 1]
+lista_compras = ["presunto", "pao", "mortadela"] # exemplo de lista
+lista_numeros = [8, 4, 1] # exemplo de lista de números
 
 
 # item = lista_compras[0] + " e " + lista_compras[2]
